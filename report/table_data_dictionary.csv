@@ -1,0 +1,21 @@
+,dtype,missing_pct,unique,example
+row_id,int64,0.0,123197,0
+region,object,0.0,5,Northern Sydney
+council,object,0.0,16,Northern Beaches Council
+site,object,0.0,79,Avalon Beach
+date,datetime64[ns],0.0,5169,1993-01-24 00:00:00
+year,int32,0.0,35,1993
+month,int32,0.0,12,1
+latitude,float64,0.0,79,-33.635658
+longitude,float64,0.0,79,151.332569
+enterococci,float64,0.0,600,10.0
+unsafe,int64,0.0,2,0
+water_temp,float64,60.91,46,nan
+conductivity,float64,63.75,2251,nan
+temp_missing,int64,0.0,2,1
+cond_missing,int64,0.0,2,1
+rain_today,float64,0.0,269,6.3
+rain_1d,float64,0.0,268,2.8
+rain_3d,float64,0.0,2026,29.299999999999965
+rain_7d,float64,0.0,2556,36.0
+air_temp_max,float64,0.0,249,29.8

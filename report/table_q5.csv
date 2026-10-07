@@ -1,0 +1,21 @@
+column_name,column_type,min,max,approx_unique,null_percentage
+row_id,BIGINT,0,123196,115225,0.0
+region,VARCHAR,Northern Sydney,Western Sydney,4,0.0
+council,VARCHAR,Blue Mountains City Council,Woollahra Municipal Council,17,0.0
+site,VARCHAR,Avalon Beach,Yosemite Creek - Minnehaha Falls,76,0.0
+date,TIMESTAMP_NS,1991-09-19 00:00:00,2025-04-28 00:00:00,4952,0.0
+year,INTEGER,1991,2025,35,0.0
+month,INTEGER,1,12,13,0.0
+latitude,DOUBLE,-34.06984,-33.598779,83,0.0
+longitude,DOUBLE,150.235487,151.332569,79,0.0
+enterococci,DOUBLE,0.0,1100000.0,612,0.0
+unsafe,BIGINT,0,1,2,0.0
+water_temp,DOUBLE,0.0,1040.0,52,60.91
+conductivity,DOUBLE,0.0,710400.0,2449,63.75
+temp_missing,BIGINT,0,1,2,0.0
+cond_missing,BIGINT,0,1,2,0.0
+rain_today,DOUBLE,0.0,101.1,286,0.0
+rain_1d,DOUBLE,0.0,130.3,267,0.0
+rain_3d,DOUBLE,0.0,211.9,2180,0.0
+rain_7d,DOUBLE,0.0,240.5,2646,0.0
+air_temp_max,DOUBLE,9.8,39.9,223,0.0

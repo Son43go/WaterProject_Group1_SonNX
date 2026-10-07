@@ -1,0 +1,7 @@
+{
+  "file": "data/processed/beach.parquet",
+  "rows": 123197,
+  "columns": 20,
+  "feat_rows": 123197,
+  "md5": "fd8285c8a648d0c12b24d3482f3fad93"
+}

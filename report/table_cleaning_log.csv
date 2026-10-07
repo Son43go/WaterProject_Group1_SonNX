@@ -1,0 +1,10 @@
+step,value
+raw samples,123530.0
+samples with a bacteria count,123223.0
+after keeping one sample per site and day,123197.0
+samples without weather (removed),0.0
+samples without water temperature,75035.0
+samples without conductivity,78533.0
+sites,79.0
+unsafe samples (%),15.5
+unsafe samples from 2020 on (%),14.2

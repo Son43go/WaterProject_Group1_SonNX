@@ -1,0 +1,16 @@
+site,region,samples,unsafe_pct,rank
+Megalong Creek,Western Sydney,163,84.04907975460122,1
+Yarramundi Reserve,Western Sydney,123,78.86178861788618,2
+Yosemite Creek - Minnehaha Falls,Western Sydney,108,69.44444444444444,3
+Wentworth Falls Lake - Jetty,Western Sydney,176,57.38636363636363,4
+Windsor Beach,Western Sydney,124,48.38709677419355,5
+Darling Harbour,Sydney Harbour,379,45.11873350923483,6
+Wentworth Falls Lake - Beach,Western Sydney,174,39.08045977011494,7
+Bilarong Reserve,Northern Sydney,586,33.44709897610921,8
+Narrabeen Lagoon (Birdwood Park),Northern Sydney,576,30.208333333333332,9
+Davidson Reserve,Sydney Harbour,389,23.90745501285347,10
+Rose Bay Beach,Sydney Harbour,394,23.85786802030457,11
+Malabar Beach,Sydney City,607,23.064250411861615,12
+Coogee Beach,Sydney City,605,21.65289256198347,13
+Tambourine Bay,Sydney Harbour,390,20.76923076923077,14
+Callan Park Seawall,Sydney Harbour,253,19.76284584980237,15
